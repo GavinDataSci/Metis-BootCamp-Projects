@@ -12,5 +12,5 @@ A Portuguese bank is trying to sell term deposits ot it's clients. Build a machi
 Project Fletcher:
 Perform NLP (natural language processing) modeling utilizing a Twitter app and sentiment analysis techniques.
 
-Project Kojak
-•	Financial analytics visualization.
+Project Kojak:
+Financial analytics visualization.
